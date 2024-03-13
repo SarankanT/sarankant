@@ -1,13 +1,12 @@
 # Hello! 👋
 
-Welcome to my GitHub profile. I'm Sarankan, a Management Engineering student from the University of Waterloo. I am a Program Manager passionate about [Your Interests].
-
+Welcome to my GitHub profile. I'm Sarankan, a Management Engineering student from the University of Waterloo. I am a Program Manager passionate about Machine Learning & Children's Education.
+<!--
 ## About Me
 
 - 🌱 I’m currently learning [Current Learning Focus]
 - 👯 I’m looking to collaborate on [Project Types/Topics]
 - 💬 Ask me about [Your Areas of Expertise/Interest]
-- 📫 How to reach me: [Your Contact Information/Links]
 
 ## My Projects
 
@@ -27,7 +26,7 @@ Here are some highlighted projects:
 
 Feel free to connect with me through:
 
-- [LinkedIn](SarankanT)
+- [LinkedIn](https://www.linkedin.com/in/sarankant/)
 - [Email](s4thirun@uwaterloo.ca)
 
 Thank you for stopping by! 😊
