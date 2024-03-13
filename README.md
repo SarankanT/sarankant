@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hello! 👋
 
+Welcome to my GitHub profile. I'm Sarankan, a Management Engineering student from the University of Waterloo. I am a Program Manager passionate about [Your Interests].
+
+## About Me
+
+- 🌱 I’m currently learning [Current Learning Focus]
+- 👯 I’m looking to collaborate on [Project Types/Topics]
+- 💬 Ask me about [Your Areas of Expertise/Interest]
+- 📫 How to reach me: [Your Contact Information/Links]
+
+## My Projects
+
+Here are some highlighted projects:
+<!--
+- [Project Name](link): Brief description
+- [Project Name](link): Brief description
+- [Project Name](link): Brief description
+
+## Technologies I Work With
+
+- Languages: [List of Programming Languages]
+- Frameworks: [List of Frameworks]
+- Tools: [List of Tools]
+-->
+## Let's Connect
+
+Feel free to connect with me through:
+
+- [LinkedIn](SarankanT)
+- [Email](s4thirun@uwaterloo.ca)
+
+Thank you for stopping by! 😊
 <!--
 **SarankanT/sarankant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
