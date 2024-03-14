@@ -21,5 +21,3 @@ Feel free to connect with me through:
 
 - [LinkedIn](https://www.linkedin.com/in/sarankant/)
 - [Email](s4thirun@uwaterloo.ca)
-
-Thank you for stopping by!
