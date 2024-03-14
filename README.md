@@ -1,19 +1,19 @@
 # Hello! 👋
 
-Welcome to my GitHub profile. My name is Sarankan, a Management Engineering student from the University of Waterloo. 
-I am a Program Manager very interested in learning about Data & Machine Learning.
+Welcome to my GitHub profile. My name is Sarankan, a Management Engineering student from the University of Waterloo with a double minor in Computer Science & Entrepreneurship. 
+I am a Program Manager very interested in projects around Data & Machine Learning.
 
 ## My Recent Projects
 
 Here are some highlighted projects:
 
-- [GreenerThreads](https://github.com/HassanRawasia/greener-threads): Chrome Extension
+- [GreenerThreads](https://github.com/HassanRawasia/greener-threads): Chrome Extension that aims to increase awareness and transparency within the fashion industry, enabling consumers to make informed decisions and avoid supporting products associated with unethical practices. (Fourth Year Capstone Project)
 
-- [Titanic Machine Learning Regression Modelling](https://github.com/SarankanT/MSCI-546-Final-Project): Utilizing 6 different models t
+- [Titanic -  Machine Learning Modelling](https://github.com/SarankanT/MSCI-546-Final-Project): Utilizes 6 different binary classification models to predict the survival rate of a passenger on the titanic.
 
-- [House Prices Linear Regression Model](https://github.com/SarankanT/MSCI-436-Final-Project): Campaign to analyze various characteristics of houses in order to anticipate the impact or potential increase in their value.
+- [House Prices - Linear Regression Modelling](https://github.com/SarankanT/MSCI-436-Final-Project): Campaign that analyzes various characteristics of houses within the Ames, Iowa region to anticipate the impact or potential increase in value of a home improvment.
 
-- [Meal Kit Delivery Service Optimization Model](https://github.com/HassanRawasia/MSCI-434-Final-Project): Examines the transportation problem in the context of a meal kit delivery service, with a focus on the quality degradation of fresh foods.
+- [Meal Kit Delivery Service Optimization](https://github.com/HassanRawasia/MSCI-434-Final-Project): Examines the transportation problem in the context of a meal kit delivery service, with a focus on the quality degradation of fresh foods.
  
 ## Let's Connect
 
@@ -23,8 +23,3 @@ Feel free to connect with me through:
 - [Email](s4thirun@uwaterloo.ca)
 
 Thank you for stopping by!
-<!--
-**SarankanT/sarankant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
