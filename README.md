@@ -4,7 +4,7 @@ Welcome to my GitHub profile. My name is Sarankan, a Management Engineering stud
 
 I am a Program Manager very interested in projects around Data & Machine Learning.
 
-I am passionate about Childrens
+I am passionate about empowering children's education. Connect with me if you're equally as passionate about this topic.
 
 ## My Recent Projects
 
