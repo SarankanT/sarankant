@@ -9,9 +9,9 @@ Here are some highlighted projects:
 
 - [GreenerThreads](https://github.com/HassanRawasia/greener-threads): Chrome Extension
 
-- [Titanic Machine Learning Regression Modelling]((https://github.com/SarankanT/MSCI-546-Final-Project)): Utilizing 6 different models t
+- [Titanic Machine Learning Regression Modelling](https://github.com/SarankanT/MSCI-546-Final-Project): Utilizing 6 different models t
 
-- [House Prices Linear Regression Model]([link](https://github.com/SarankanT/MSCI-436-Final-Project)): Campaign to analyze various characteristics of houses in order to anticipate the impact or potential increase in their value.
+- [House Prices Linear Regression Model](https://github.com/SarankanT/MSCI-436-Final-Project): Campaign to analyze various characteristics of houses in order to anticipate the impact or potential increase in their value.
 
 - [Meal Kit Delivery Service Optimization Model](https://github.com/HassanRawasia/MSCI-434-Final-Project): Examines the transportation problem in the context of a meal kit delivery service, with a focus on the quality degradation of fresh foods.
  
