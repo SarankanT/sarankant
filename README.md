@@ -8,8 +8,6 @@ I am passionate about empowering children's education. Connect with me if you're
 
 ## My Recent Projects
 
-Here are some of my highlighted projects:
-
 - [GreenerThreads](https://github.com/HassanRawasia/greener-threads): Chrome Extension that aims to increase awareness and transparency within the fashion industry, enabling consumers to make informed decisions and avoid supporting products associated with unethical practices. (Fourth Year Capstone Project)
 
 - [Titanic -  Machine Learning Modelling](https://github.com/SarankanT/MSCI-546-Final-Project): Utilizes 6 different binary classification models to predict the survival rate of a passenger on the titanic.
