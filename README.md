@@ -16,7 +16,7 @@ Here are some of my highlighted projects:
 
 - [House Prices - Linear Regression Modelling](https://github.com/SarankanT/MSCI-436-Final-Project): Campaign that analyzes various characteristics of houses within the Ames, Iowa region to anticipate the impact or potential increase in value of a home improvment.
 
-- [Meal Kit Delivery Service Optimization](https://github.com/HassanRawasia/MSCI-434-Final-Project): Examines the transportation problem in the context of a meal kit delivery service, with a focus on the quality degradation of fresh foods.
+- [Meal Kit Delivery Optimization Modelling](https://github.com/HassanRawasia/MSCI-434-Final-Project): Examines the transportation problem in the context of a meal kit delivery service, with a focus on the quality degradation of fresh foods.
 
 - [The Next Chapter](https://www.instagram.com/thenextchapter.to/): Building a platform to foster a culture of reading and provide a space for meaningful discussions. 
 
