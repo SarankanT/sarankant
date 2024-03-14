@@ -5,7 +5,7 @@ I am a Program Manager very interested in projects around Data & Machine Learnin
 
 ## My Recent Projects
 
-Here are some highlighted projects:
+Here are some recent highlighted projects:
 
 - [GreenerThreads](https://github.com/HassanRawasia/greener-threads): Chrome Extension that aims to increase awareness and transparency within the fashion industry, enabling consumers to make informed decisions and avoid supporting products associated with unethical practices. (Fourth Year Capstone Project)
 
