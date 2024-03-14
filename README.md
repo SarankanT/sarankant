@@ -1,7 +1,10 @@
 # Hello! 👋
 
 Welcome to my GitHub profile. My name is Sarankan, a Management Engineering student from the University of Waterloo with a double minor in Computer Science & Entrepreneurship. 
+
 I am a Program Manager very interested in projects around Data & Machine Learning.
+
+I am passionate about Childrens
 
 ## My Recent Projects
 
@@ -14,6 +17,9 @@ Here are some recent highlighted projects:
 - [House Prices - Linear Regression Modelling](https://github.com/SarankanT/MSCI-436-Final-Project): Campaign that analyzes various characteristics of houses within the Ames, Iowa region to anticipate the impact or potential increase in value of a home improvment.
 
 - [Meal Kit Delivery Service Optimization](https://github.com/HassanRawasia/MSCI-434-Final-Project): Examines the transportation problem in the context of a meal kit delivery service, with a focus on the quality degradation of fresh foods.
+
+- [The Next Chapter](https://www.instagram.com/thenextchapter.to/): Building a platform to foster a culture of reading and provide a space for meaningful discussions. 
+
  
 ## Let's Connect
 
