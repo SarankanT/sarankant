@@ -8,7 +8,7 @@ I am passionate about Childrens
 
 ## My Recent Projects
 
-Here are some recent highlighted projects:
+Here are some of my highlighted projects:
 
 - [GreenerThreads](https://github.com/HassanRawasia/greener-threads): Chrome Extension that aims to increase awareness and transparency within the fashion industry, enabling consumers to make informed decisions and avoid supporting products associated with unethical practices. (Fourth Year Capstone Project)
 
